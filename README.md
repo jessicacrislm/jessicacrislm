@@ -10,4 +10,5 @@
 - ⚡ Fun fact: ...
 
 
-![mahocodesstats](https://github-readme-stats.vercel.app/api?username=mahocodes&show_icons=true&title_color=5FE0E8&icon_color=E805F2&bg_color=020209&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahocodes&title_color=5FE0E8&icon_color=E805F2&bg_color=020209&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![mahocodesstats](https://github-readme-stats.vercel.app/api?username=mahocodes&show_icons=true&title_color=5FE0E8&icon_color=E805F2&bg_color=020209&hide_border=true) ![girlpower](https://github.com/mahocodes/mahocodes/blob/main/assets/girlpower.gif)<br/>
+![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahocodes&title_color=5FE0E8&icon_color=E805F2&bg_color=020209&hide_border=true&layout=compact)
